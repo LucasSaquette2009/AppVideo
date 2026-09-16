@@ -1,0 +1,7 @@
+<resources>
+    <style name="Base.Theme.AppVideo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#2196F3</item>
+    </style>
+
+    <style name="Theme.AppVideo" parent="Base.Theme.AppVideo" />
+</resources>

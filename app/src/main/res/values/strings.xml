@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppVideo</string>
+    <string name="titulo_app">Reprodutor de Vídeos</string>
+    <string name="v_deo_2">Vídeo 2</string>
+    <string name="pausar">Pausar</string>
+    <string name="reproduzir">Reproduzir</string>
+    <string name="tela_cheia">Tela cheia</string>
+    <string name="v_deo_1">Vídeo 1</string>
+    <string name="mudo">Mudo</string>
+    <string name="som">Som</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="sair_tela_cheia">Sair da tela cheia</string>
+    <string name="atribuicao_videos">Vídeos de exemplo CC0 (domínio público) cedidos pela Mozilla/MDN Web Docs</string>
+</resources>
